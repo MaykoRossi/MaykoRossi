@@ -1,7 +1,7 @@
 # ReadMe Mayko Rossi
-_Carioca, 31_
+_Carioca, 32_
 
-Sou um desenvolvedor apaixonado com sólida formação em Designer Gráfico e atualmente cursando Análise e Desenvolvimento de Sistemas. Com 31 anos e vasta experiência em design web, estou focado em expandir minhas habilidades em desenvolvimento front-end e back-end. Minha trajetória acadêmica e profissional me proporcionou um conjunto robusto de competências técnicas e soft skills que me permitem colaborar efetivamente em equipes multidisciplinares e entregar soluções inovadoras e de alta qualidade.
+Sou um desenvolvedor apaixonado com sólida formação em Designer Gráfico e atualmente cursando Análise e Desenvolvimento de Sistemas. Com 32 anos e vasta experiência em design web, estou focado em expandir minhas habilidades em desenvolvimento front-end e back-end. Minha trajetória acadêmica e profissional me proporcionou um conjunto robusto de competências técnicas e soft skills que me permitem colaborar efetivamente em equipes multidisciplinares e entregar soluções inovadoras e de alta qualidade.
 
 Soft Skills Destacadas:
 
